@@ -1,4 +1,6 @@
 *.class
 *.vscode
 tempCodeRunnerFile.java
-
+*.txt
+*.stream
+Test-File-01
